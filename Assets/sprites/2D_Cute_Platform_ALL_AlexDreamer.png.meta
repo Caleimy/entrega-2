@@ -1,0 +1,4723 @@
+fileFormatVersion: 2
+guid: 4b7dfcb2d891b28408eea50fe5765edd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 896
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12c0401a904df34db624e78f4aabd87
+      internalID: 1622846915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 896
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093df121442936d49ab8060278c9dc73
+      internalID: 1991252174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 896
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dcd3b83fd4da144a0b4c3dc181a8e2
+      internalID: 1243395797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 896
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154fa882dc965d04ead250c79b4690ba
+      internalID: 1005731615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 896
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec75feb2d173db459a889d2a12a75d4
+      internalID: -1634264614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 864
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6f87cc549a8164896e061f9b83478c
+      internalID: 2000169189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d654e9a879d233145857317453951701
+      internalID: -878938862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_7
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 800
+        width: 25
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59c90cef91cb2f46b48c0bea51b8e50
+      internalID: 1069180617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 816
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb45198269146b4989853e89ca8d218
+      internalID: -1294172253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 800
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345b315508781704397821e0bf638266
+      internalID: -1832986125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 760
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eac068660ca4f7458fb77f9a775b8e8
+      internalID: -1669452205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 760
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99728a343bfc7ca49998f706c5f1349b
+      internalID: 229063783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 760
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e65cb989dab3d74b8f0468946d6a23f
+      internalID: 1383711774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 782
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dea19f4f3d079046bc5701ff4734b67
+      internalID: 2127257990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 760
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf2ba1953f7c5342ab4fe61996240cd
+      internalID: -1079610861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 760
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9772dd38c8e234b8157d82d6e41b6b
+      internalID: -1197437656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 760
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d347c9ca33c39f4a9d6c12020f4bd6c
+      internalID: -2120742251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 728
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5bf166924d98047b3c8d8f7b03a1cf
+      internalID: 2016898687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 728
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6453252bcd1c3fb429b28335c92a996b
+      internalID: -1510293564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 728
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094a455ffe8e34147a98a96de123069e
+      internalID: 982509978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 728
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e6cc2f30605c4448eea6a2e51a2401
+      internalID: 343226848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 720
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d564a1b4c67fc034a80d89c892900865
+      internalID: 1615133750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 720
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4035ed2bc03814c9b0aaef06c8a9c4
+      internalID: -401538672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 720
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac4a93578f2aef439479716db6e4651
+      internalID: -1861069470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 688
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3906ec45c56bf4eaa5166d453a2da1
+      internalID: -1099888989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 688
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76282c4ee2d4cd649a4be677758a9bb7
+      internalID: -1917208561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 688
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272eedba6bc96c240ac625cea3d59d7b
+      internalID: 1583581894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_27
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 710
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888a4d72a52893a46b173944dc549776
+      internalID: -1505707711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_28
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 688
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cded8bb95de06c849a28443415f3acc5
+      internalID: 917244237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_29
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 680
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c332f2a54c9704085c6ae54fdad83e
+      internalID: -1486047491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_30
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 680
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dc2a144ffca1c4e866b871e6ed9329
+      internalID: -1110507264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_31
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 680
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eee5987781cfe34486d4681e3e4d6a9
+      internalID: 969979783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 656
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53399c7dfb843042ae6c3a1b1dc3779
+      internalID: 2122737174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 656
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc46cf02d77bde14da18753081c3588d
+      internalID: -2091117171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 656
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad86a9b52f63a6c4caa584a527c0ffb0
+      internalID: -2106218194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 656
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7321724f38254114eb695cb9ee4c509e
+      internalID: -1911604880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_36
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 640
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be6b4a410f42a24ba4ece94c0ae8d44
+      internalID: -1265942593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_37
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 640
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16408acecc6d0024589ed754e4caffea
+      internalID: 689174086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_38
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 640
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78d6ac032434304c815396b5017472b
+      internalID: -436587752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 616
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb09fac4b267004499af22cd8e53a60
+      internalID: 1593612272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_40
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 616
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a528c6a1454ce749a7318a948ed7dbf
+      internalID: 9738394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 616
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c815189d2111364f9b4d5f2669e5b44
+      internalID: 548583627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_42
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 638
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2041522f97293459796d5a7bfc33a4
+      internalID: -2127660804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_43
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 616
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d77b43af73fe746b9c9104f43cd6ad
+      internalID: -692988549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_44
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 607
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc1ed837a5215e40a38b5aa290237fb
+      internalID: 798978569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_45
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 601
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca9c1d4d9e32914792e7fc7129c0640
+      internalID: 561267008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 601
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e542a161f8ea1554fb7a9af68fc3b378
+      internalID: -1333449222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 584
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b279423cb4ece504eacf7bd55a0f8c4b
+      internalID: -2141786793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_48
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 584
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9591849acfe4b0446a3e319daf5438a1
+      internalID: 998343389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_49
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 584
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879d5ff28c9212148ae50197101d3de5
+      internalID: 218213849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 584
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb3e9e959e7be74abf01e2b9f1fd15f
+      internalID: -1234337741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_51
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 577
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea3bdb2031be5347bda164956c2f6bc
+      internalID: 2003358484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_52
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 577
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a234b6d0f7c9e741af122f506093641
+      internalID: 1138790582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_53
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 577
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d087c46b9652454ab4f9efb9363f640
+      internalID: -556922464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_54
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 576
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14d78a41c76fbe4c9c8d982a2bb6d6e
+      internalID: -1103812258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_55
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 577
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730006cf537fc3640815bdd6d0c03612
+      internalID: 1035676835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_56
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 561
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9b90e09e9940f4787fc8c9b6ba7dbe
+      internalID: 708170008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_57
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 561
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aae3d85fe67e20468f82ae81940678d
+      internalID: 210737717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_58
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 564
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fe252251b21f34e94164856b373b8d
+      internalID: 79088386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_59
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 571
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f75ad4113a41a343843255580ceb370
+      internalID: 1392296641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_60
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 571
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814d981914238d142bed06faa50d9070
+      internalID: -2116810767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_61
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 561
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb027a8a1c0bf94e816c955232404b1
+      internalID: -1371848655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_62
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 544
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d24e1bfe6e90643a39a13e81677a8a
+      internalID: 1578680588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_63
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 544
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a61d80b354f47a42bb19273c21f342f
+      internalID: 471766757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_64
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 544
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcb5c15a3bb7f44c865bb0cc6b1e3cb
+      internalID: 1747880907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_65
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 544
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc0fe6287a071a409e4c9acaaffbd1f
+      internalID: -1197101025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_66
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 565
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4cbee5c2590c043b4ea4da4993336a
+      internalID: -71269340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_67
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 561
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f580d979685d946af033549f0ebce7
+      internalID: 741584752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_68
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 560
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c871b5acec6e8c8458853a2df1ab6464
+      internalID: -2090223108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_69
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 546
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fa655b40edc3d41a871467bc51f70f
+      internalID: -585940125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_70
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 544
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d66982a1d47a14993318fd858d6f81
+      internalID: 426964737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_71
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 512
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6598a8e4c4f69ae4eaf688b9658f2b05
+      internalID: 589342754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_72
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 512
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91a9878e0a7b6344967a5ae1fdfba71
+      internalID: 1305623721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_73
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 512
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9150978ef1c192b49b3a7b5080da6b10
+      internalID: -163037657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_74
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 512
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e89ddf9ed6f2c04f985853442de828e
+      internalID: -614329315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_75
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 512
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1fefd84758d8e42928d428afe6a20f
+      internalID: -571333946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_76
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 512
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0b695c7edc54d41937488e68c99f9b
+      internalID: 274208234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94c799ff043a3d4b840b843dea2eb7a
+      internalID: 1211265714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1326d2e04207c074aaa4d305a14c37d8
+      internalID: -1562651655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_79
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 312
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d2b017ec945134298a11e42552fa40
+      internalID: 2027993433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_80
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 312
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efc009dc70966e4e8f99d3468e1c2ee
+      internalID: 1908396923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_81
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 312
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b510c0713e5cd419706117491e0b9d
+      internalID: -1650114220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_82
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 312
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b08d5242028a96489a0f24e9e8d5217
+      internalID: 59460459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_83
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 312
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d9b250454be1b40b94ade1c5e9f53f
+      internalID: 548569937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_84
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 312
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c12f8a940565804c9d1097a832bca21
+      internalID: -458947795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_85
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 312
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174b0d0bdb1fe3b47877736eb1a4c0a5
+      internalID: 635723712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_86
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 312
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960c38c1ce6839c429ce9a8b585a9461
+      internalID: -1843209586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_87
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 268
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be954d1d59f32d45a28ba41659cc2c7
+      internalID: -691396522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_88
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 268
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a5164851648c547a4d8c5ee232f0d4
+      internalID: -429937132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_89
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 288
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a525e80d0fa4c64c9d0166ba266af06
+      internalID: 1362969680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_90
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 288
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8672efddfde6bba4780addb797045135
+      internalID: -1169076539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_91
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 288
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c6543e488336d449e56e63d91bbf6b
+      internalID: -1932300667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_92
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 288
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f2823683cf98c409a76dbc08c20542
+      internalID: 2247928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_93
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 296
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0617399312c2db34292b639c8f3e5889
+      internalID: 1050604587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_94
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 288
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d20b7a4e37eca49a5c14ce1605d7fd
+      internalID: -1252121482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_95
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 288
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93c2022cca190542beb785bf266281d
+      internalID: 1029537567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_96
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 272
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507de6e1ec8ea9d4c8ca19f091538575
+      internalID: -1981909222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_97
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 290
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40d1af2e219474409b01514164ded6b
+      internalID: 1167742579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_98
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 288
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f07dcd9b27e3b489d4255edb64b957
+      internalID: -1050597585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_99
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 272
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7372c02976c28349b7b375bfb5b05f8
+      internalID: 1337942388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_100
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 272
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e404bc8a48d9af34699b015873f41ee0
+      internalID: -970040933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_101
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 272
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25613b7c2d0acd74babcc796e9c67993
+      internalID: 696882569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_102
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 280
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5af2cae0c21b0468ef57b37e1604c7
+      internalID: -366428081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_103
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 272
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13501b929263524597a1a1a928a6480
+      internalID: 244911352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_104
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 272
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfd45772ce2baa48997d5d4ff4b6a84
+      internalID: 1163164150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_105
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 274
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b41f6d77b4ff54b8cd63ff694030f2
+      internalID: 1169104679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_106
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 272
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e257598d5742c94469bf4cec10552182
+      internalID: -310141924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_107
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 272
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad22bd501de1ae047b291c94ddc62fac
+      internalID: -574216115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f02bddadd622724ca693a0960071e21
+      internalID: 108276839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_109
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 248
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38c9240379f70744a945bf2fce926f3
+      internalID: -156049129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 252
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f988af51eae424783e67bff92213a2
+      internalID: 1269889301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_111
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 248
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a43ca2db775a84d8dd9a68d3154c39
+      internalID: 1489473345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 248
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4b5714af0f7dd429105edf24e5dece
+      internalID: -446134658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_113
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 248
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96007162e0389af46b7fd11d560899aa
+      internalID: 334908144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 250
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa59ddf918929de4caca4cdfaa3ebd0a
+      internalID: 1892424901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_115
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 248
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e5f9487492bac448c1f86d89b0fbd6
+      internalID: -2054516767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_116
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 248
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0b9e399d233ec4cb31850991bf215a
+      internalID: 156879218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_117
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 249
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5edf4b0d2a6db4380ae5348140c1cb
+      internalID: -733752248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_118
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 248
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfc237b01ab5ed44adf94f58c179313
+      internalID: 1337679144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_119
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 248
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd520bb8a05741489ff668719430836
+      internalID: -58114439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_120
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 224
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0485497154e9d44bf8663dc076f491
+      internalID: 270187496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_121
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 224
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0182f7dc5b868104a95ff0b9d191e525
+      internalID: -1412775582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_122
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 232
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1018dd591cc3eb24ba8f99bab864b311
+      internalID: -1049897728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_123
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 232
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b8d6988fdc46b458777aa4912584fa
+      internalID: 1626549802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_124
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 232
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a32fe8fcc73b24d9a9581e26295397
+      internalID: 1226044150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_125
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 232
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d2d878a28571848a9e6a77dc47e10e
+      internalID: 882177462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_126
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 235
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0edd3085219214f8a527e227c6035c
+      internalID: 1420091815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_127
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 232
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7cbf0f6caa51b4e8bec5c4e4e18c4d
+      internalID: -322227215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_128
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 232
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad799a94b959cc4ca96836a85045f42
+      internalID: 1384552405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_129
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4dde9a29a07e640acddd488e6ee0ac
+      internalID: 1554302655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_130
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a987ff5957637fc458d232a10e55e7cd
+      internalID: -669695098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_131
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1506c62afa051eb40bc2df524211f1cf
+      internalID: 661650134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_132
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3663b86f6fcbe1741a6efb0e0e504f7e
+      internalID: 1406307340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_133
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28745aae6988b3e4ba3ea96c4ececab0
+      internalID: 1386918575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_134
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4982c90e1f5e42143b8b75fb98d0f1ca
+      internalID: 1369047123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_135
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1eef21003329f74488adc8dab61fbaf
+      internalID: 371847112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_136
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbc8a1ae0cbfbc47a209dd17f1317d9
+      internalID: -442616742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_137
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a85932f4b31374eb73ef5de9d71064
+      internalID: -1852733062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_138
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 41
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39acb77f8b36af45847c2d71e586b90
+      internalID: -1089447205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_139
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fbecb776217be45bba8008d4a733b9
+      internalID: -1255399925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_140
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 41
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd8f3e0f9737714ca3432bdeb869392
+      internalID: -1801998617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_141
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a027267f8178e145b43cc3ab8ca8ade
+      internalID: 1369386227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_142
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f11009a0537d6f40b2c7e2d6d0ef2f8
+      internalID: -1407223371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_143
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6432365d9172314498a409e6943c4ba1
+      internalID: 1556089971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_144
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ad5e18821c27b47a746c9d1a2c0000
+      internalID: 983085825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_145
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53ac1f52a27f9b4e924ca5e654bd2d1
+      internalID: 235869723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_146
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 25
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04664c5c989b2d4ba3305be38b2ed97
+      internalID: 230341167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_147
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be59df9a1d483b4889feb2ce685c263
+      internalID: 1908283459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_148
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3e6f6c56f820d458f08848ab73087c
+      internalID: 144476945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_149
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7142502b2d00eec41888b17b5b38ee4b
+      internalID: -1951814047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_150
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e47d87158f97c743803ef2354841fa3
+      internalID: -1482754695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_151
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124d085622054fc40896a754f8663135
+      internalID: 304319464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_152
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e0b0f276f013b4f94ed49c2a45e2bc
+      internalID: -82962686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_153
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8cbf20a4c2c36499083405979bb07b
+      internalID: 575218554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_154
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262cfd92e1f69394ab64998a004b55f2
+      internalID: 158810198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_155
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 25
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eb50f896196bd4d8b65d3f5bc98ee5
+      internalID: 882112796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_156
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 33
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71078a9e2ce4b0418f52751afee8bc7
+      internalID: 1480097135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_157
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 27
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e909632b418b824aa7eff7830827935
+      internalID: -1102296662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_158
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 25
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dacc11cfc99b594a9aae7d173fc1848
+      internalID: 408574791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_159
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 25
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553bcfb33e9b9f64ca318293945a2d36
+      internalID: 1388163239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_160
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e20289119c58b43aeaee68839f20ac
+      internalID: -844435780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_161
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 25
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511b890292c24254cb5a876f0e801483
+      internalID: -1556013964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_162
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4224039879634242a49b727d2804d0e
+      internalID: 1690180948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_163
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 25
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a5cd83f5fc70c49a775a0e53d01449
+      internalID: -1352098557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_164
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 25
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb5f2d5c68f6c241a7497c82cbec316
+      internalID: 198669298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_165
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b254589616774842af930acffac16c4
+      internalID: 1537201143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_166
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f47bd8c7c636e04da59303ea2555ee0
+      internalID: -1904069959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_167
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a896e0421038ea34f9cb21cbace32551
+      internalID: -2090698734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_168
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 25
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4bdac05f565d24e972bbf886f59e17
+      internalID: -1855035161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_169
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 25
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c409c18c291463b4eaa99a69cc7a132d
+      internalID: 762077620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_170
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 25
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09556ffdfd1329e44847487cb6c820ab
+      internalID: 753137776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_171
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 25
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d77db05c97b535418ef5668898429ee
+      internalID: -1926816048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_172
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 25
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233972885c1b22645a6c4c53a72d2f24
+      internalID: -1776594540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_173
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 17
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41356f6eb5bcb24a8b92973e15d1483
+      internalID: -592867932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_174
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 9
+        width: 5
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64caa68f2396c0049934614e124d9df3
+      internalID: -3120208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_175
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 17
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156aa65b64646d34f973bae0df2e6503
+      internalID: 1171049981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_176
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 17
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6064f14b4a5b24a8c6a7ba43712a24
+      internalID: -635188092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_177
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 17
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d5cb99b5caa1445a473ddcb248fcb4
+      internalID: 211415862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_178
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 17
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdb82079b2acb14290cc5fe10ceb340
+      internalID: 1068848323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_179
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 17
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dc551e8c8eb5249b7759121525964c
+      internalID: -249171419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_180
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 17
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8255c30a868cc9c4abef695d3a3b5b47
+      internalID: -2065032399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_181
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 17
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bd90d3d9ee34f4c8830bac24d09a82
+      internalID: -1074175646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_182
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 17
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb4086cbb82fa749b5781a4a83e54ab
+      internalID: -1835293761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_183
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 17
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9bf48ac151ca84e8ac74570ad9e1d8
+      internalID: 735838338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_184
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 17
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8187cd929dc503f4b966398d53a084c9
+      internalID: -889842741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_185
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 17
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3c3ee713569a24489964a56b9f7122
+      internalID: 1144703462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_186
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9706809d9466644ba3e48a1c3685bb0
+      internalID: 1124485007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_187
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c933cae6b0c78904eba75d1d48709768
+      internalID: 238959045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_188
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa842bce6c7aa34b8c4bf8f2bd43e97
+      internalID: 926427565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_189
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aedab837c7147e41b195dab38cb5b87
+      internalID: -1429805609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_190
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 17
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1620f196001ad47ba12f9f92d2767c
+      internalID: -1751121312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_191
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4bdf5a3a7f11e49bacb3056bc96b41
+      internalID: -103413890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_192
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 9
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa6b328ee2992a4ba93498b41678464
+      internalID: -1329238338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_193
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495894b7b0b0d3441947ccb4d8beb680
+      internalID: 862634663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_194
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 9
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724731e21bf7fac408124f45d90efd8c
+      internalID: 692491591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_195
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87c06374c801754baf51fd72e485af7
+      internalID: 2088186072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_196
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb289716d9788242ae7cee951871127
+      internalID: 1857347082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_197
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230ea0d09906b0647aebb96f2b946ac3
+      internalID: 752866082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_198
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 9
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caa2ec4253fc2a439d418a9007045cd
+      internalID: -685538680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_199
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d95f691635f39b4fb6fec01161198d0
+      internalID: 1364440169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_200
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5241934f6f85d489530f068731ea8a
+      internalID: -96085226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_201
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118580c66c01b4c4f93bc49c9e25f97e
+      internalID: 1174789161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_202
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec7e734ddaf5f34f87747725d1cf2a1
+      internalID: 704103919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_203
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a498348678847a44ebeff048acf32d3f
+      internalID: 1274914809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_204
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e233816cb979f364396cac7623d0fafa
+      internalID: -62100480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_205
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0885d737c01ada34a995c746aa4f3b3f
+      internalID: 1754461284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_206
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11847d0ad80b41d4fa598fa00039dc27
+      internalID: 1471165875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2D_Cute_Platform_ALL_AlexDreamer_207
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa06984d2b380c4e98a91b721456ccf
+      internalID: 1001274896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2D_Cute_Platform_ALL_AlexDreamer_0: 1622846915
+      2D_Cute_Platform_ALL_AlexDreamer_1: 1991252174
+      2D_Cute_Platform_ALL_AlexDreamer_10: -1669452205
+      2D_Cute_Platform_ALL_AlexDreamer_100: -970040933
+      2D_Cute_Platform_ALL_AlexDreamer_101: 696882569
+      2D_Cute_Platform_ALL_AlexDreamer_102: -366428081
+      2D_Cute_Platform_ALL_AlexDreamer_103: 244911352
+      2D_Cute_Platform_ALL_AlexDreamer_104: 1163164150
+      2D_Cute_Platform_ALL_AlexDreamer_105: 1169104679
+      2D_Cute_Platform_ALL_AlexDreamer_106: -310141924
+      2D_Cute_Platform_ALL_AlexDreamer_107: -574216115
+      2D_Cute_Platform_ALL_AlexDreamer_108: 108276839
+      2D_Cute_Platform_ALL_AlexDreamer_109: -156049129
+      2D_Cute_Platform_ALL_AlexDreamer_11: 229063783
+      2D_Cute_Platform_ALL_AlexDreamer_110: 1269889301
+      2D_Cute_Platform_ALL_AlexDreamer_111: 1489473345
+      2D_Cute_Platform_ALL_AlexDreamer_112: -446134658
+      2D_Cute_Platform_ALL_AlexDreamer_113: 334908144
+      2D_Cute_Platform_ALL_AlexDreamer_114: 1892424901
+      2D_Cute_Platform_ALL_AlexDreamer_115: -2054516767
+      2D_Cute_Platform_ALL_AlexDreamer_116: 156879218
+      2D_Cute_Platform_ALL_AlexDreamer_117: -733752248
+      2D_Cute_Platform_ALL_AlexDreamer_118: 1337679144
+      2D_Cute_Platform_ALL_AlexDreamer_119: -58114439
+      2D_Cute_Platform_ALL_AlexDreamer_12: 1383711774
+      2D_Cute_Platform_ALL_AlexDreamer_120: 270187496
+      2D_Cute_Platform_ALL_AlexDreamer_121: -1412775582
+      2D_Cute_Platform_ALL_AlexDreamer_122: -1049897728
+      2D_Cute_Platform_ALL_AlexDreamer_123: 1626549802
+      2D_Cute_Platform_ALL_AlexDreamer_124: 1226044150
+      2D_Cute_Platform_ALL_AlexDreamer_125: 882177462
+      2D_Cute_Platform_ALL_AlexDreamer_126: 1420091815
+      2D_Cute_Platform_ALL_AlexDreamer_127: -322227215
+      2D_Cute_Platform_ALL_AlexDreamer_128: 1384552405
+      2D_Cute_Platform_ALL_AlexDreamer_129: 1554302655
+      2D_Cute_Platform_ALL_AlexDreamer_13: 2127257990
+      2D_Cute_Platform_ALL_AlexDreamer_130: -669695098
+      2D_Cute_Platform_ALL_AlexDreamer_131: 661650134
+      2D_Cute_Platform_ALL_AlexDreamer_132: 1406307340
+      2D_Cute_Platform_ALL_AlexDreamer_133: 1386918575
+      2D_Cute_Platform_ALL_AlexDreamer_134: 1369047123
+      2D_Cute_Platform_ALL_AlexDreamer_135: 371847112
+      2D_Cute_Platform_ALL_AlexDreamer_136: -442616742
+      2D_Cute_Platform_ALL_AlexDreamer_137: -1852733062
+      2D_Cute_Platform_ALL_AlexDreamer_138: -1089447205
+      2D_Cute_Platform_ALL_AlexDreamer_139: -1255399925
+      2D_Cute_Platform_ALL_AlexDreamer_14: -1079610861
+      2D_Cute_Platform_ALL_AlexDreamer_140: -1801998617
+      2D_Cute_Platform_ALL_AlexDreamer_141: 1369386227
+      2D_Cute_Platform_ALL_AlexDreamer_142: -1407223371
+      2D_Cute_Platform_ALL_AlexDreamer_143: 1556089971
+      2D_Cute_Platform_ALL_AlexDreamer_144: 983085825
+      2D_Cute_Platform_ALL_AlexDreamer_145: 235869723
+      2D_Cute_Platform_ALL_AlexDreamer_146: 230341167
+      2D_Cute_Platform_ALL_AlexDreamer_147: 1908283459
+      2D_Cute_Platform_ALL_AlexDreamer_148: 144476945
+      2D_Cute_Platform_ALL_AlexDreamer_149: -1951814047
+      2D_Cute_Platform_ALL_AlexDreamer_15: -1197437656
+      2D_Cute_Platform_ALL_AlexDreamer_150: -1482754695
+      2D_Cute_Platform_ALL_AlexDreamer_151: 304319464
+      2D_Cute_Platform_ALL_AlexDreamer_152: -82962686
+      2D_Cute_Platform_ALL_AlexDreamer_153: 575218554
+      2D_Cute_Platform_ALL_AlexDreamer_154: 158810198
+      2D_Cute_Platform_ALL_AlexDreamer_155: 882112796
+      2D_Cute_Platform_ALL_AlexDreamer_156: 1480097135
+      2D_Cute_Platform_ALL_AlexDreamer_157: -1102296662
+      2D_Cute_Platform_ALL_AlexDreamer_158: 408574791
+      2D_Cute_Platform_ALL_AlexDreamer_159: 1388163239
+      2D_Cute_Platform_ALL_AlexDreamer_16: -2120742251
+      2D_Cute_Platform_ALL_AlexDreamer_160: -844435780
+      2D_Cute_Platform_ALL_AlexDreamer_161: -1556013964
+      2D_Cute_Platform_ALL_AlexDreamer_162: 1690180948
+      2D_Cute_Platform_ALL_AlexDreamer_163: -1352098557
+      2D_Cute_Platform_ALL_AlexDreamer_164: 198669298
+      2D_Cute_Platform_ALL_AlexDreamer_165: 1537201143
+      2D_Cute_Platform_ALL_AlexDreamer_166: -1904069959
+      2D_Cute_Platform_ALL_AlexDreamer_167: -2090698734
+      2D_Cute_Platform_ALL_AlexDreamer_168: -1855035161
+      2D_Cute_Platform_ALL_AlexDreamer_169: 762077620
+      2D_Cute_Platform_ALL_AlexDreamer_17: 2016898687
+      2D_Cute_Platform_ALL_AlexDreamer_170: 753137776
+      2D_Cute_Platform_ALL_AlexDreamer_171: -1926816048
+      2D_Cute_Platform_ALL_AlexDreamer_172: -1776594540
+      2D_Cute_Platform_ALL_AlexDreamer_173: -592867932
+      2D_Cute_Platform_ALL_AlexDreamer_174: -3120208
+      2D_Cute_Platform_ALL_AlexDreamer_175: 1171049981
+      2D_Cute_Platform_ALL_AlexDreamer_176: -635188092
+      2D_Cute_Platform_ALL_AlexDreamer_177: 211415862
+      2D_Cute_Platform_ALL_AlexDreamer_178: 1068848323
+      2D_Cute_Platform_ALL_AlexDreamer_179: -249171419
+      2D_Cute_Platform_ALL_AlexDreamer_18: -1510293564
+      2D_Cute_Platform_ALL_AlexDreamer_180: -2065032399
+      2D_Cute_Platform_ALL_AlexDreamer_181: -1074175646
+      2D_Cute_Platform_ALL_AlexDreamer_182: -1835293761
+      2D_Cute_Platform_ALL_AlexDreamer_183: 735838338
+      2D_Cute_Platform_ALL_AlexDreamer_184: -889842741
+      2D_Cute_Platform_ALL_AlexDreamer_185: 1144703462
+      2D_Cute_Platform_ALL_AlexDreamer_186: 1124485007
+      2D_Cute_Platform_ALL_AlexDreamer_187: 238959045
+      2D_Cute_Platform_ALL_AlexDreamer_188: 926427565
+      2D_Cute_Platform_ALL_AlexDreamer_189: -1429805609
+      2D_Cute_Platform_ALL_AlexDreamer_19: 982509978
+      2D_Cute_Platform_ALL_AlexDreamer_190: -1751121312
+      2D_Cute_Platform_ALL_AlexDreamer_191: -103413890
+      2D_Cute_Platform_ALL_AlexDreamer_192: -1329238338
+      2D_Cute_Platform_ALL_AlexDreamer_193: 862634663
+      2D_Cute_Platform_ALL_AlexDreamer_194: 692491591
+      2D_Cute_Platform_ALL_AlexDreamer_195: 2088186072
+      2D_Cute_Platform_ALL_AlexDreamer_196: 1857347082
+      2D_Cute_Platform_ALL_AlexDreamer_197: 752866082
+      2D_Cute_Platform_ALL_AlexDreamer_198: -685538680
+      2D_Cute_Platform_ALL_AlexDreamer_199: 1364440169
+      2D_Cute_Platform_ALL_AlexDreamer_2: 1243395797
+      2D_Cute_Platform_ALL_AlexDreamer_20: 343226848
+      2D_Cute_Platform_ALL_AlexDreamer_200: -96085226
+      2D_Cute_Platform_ALL_AlexDreamer_201: 1174789161
+      2D_Cute_Platform_ALL_AlexDreamer_202: 704103919
+      2D_Cute_Platform_ALL_AlexDreamer_203: 1274914809
+      2D_Cute_Platform_ALL_AlexDreamer_204: -62100480
+      2D_Cute_Platform_ALL_AlexDreamer_205: 1754461284
+      2D_Cute_Platform_ALL_AlexDreamer_206: 1471165875
+      2D_Cute_Platform_ALL_AlexDreamer_207: 1001274896
+      2D_Cute_Platform_ALL_AlexDreamer_21: 1615133750
+      2D_Cute_Platform_ALL_AlexDreamer_22: -401538672
+      2D_Cute_Platform_ALL_AlexDreamer_23: -1861069470
+      2D_Cute_Platform_ALL_AlexDreamer_24: -1099888989
+      2D_Cute_Platform_ALL_AlexDreamer_25: -1917208561
+      2D_Cute_Platform_ALL_AlexDreamer_26: 1583581894
+      2D_Cute_Platform_ALL_AlexDreamer_27: -1505707711
+      2D_Cute_Platform_ALL_AlexDreamer_28: 917244237
+      2D_Cute_Platform_ALL_AlexDreamer_29: -1486047491
+      2D_Cute_Platform_ALL_AlexDreamer_3: 1005731615
+      2D_Cute_Platform_ALL_AlexDreamer_30: -1110507264
+      2D_Cute_Platform_ALL_AlexDreamer_31: 969979783
+      2D_Cute_Platform_ALL_AlexDreamer_32: 2122737174
+      2D_Cute_Platform_ALL_AlexDreamer_33: -2091117171
+      2D_Cute_Platform_ALL_AlexDreamer_34: -2106218194
+      2D_Cute_Platform_ALL_AlexDreamer_35: -1911604880
+      2D_Cute_Platform_ALL_AlexDreamer_36: -1265942593
+      2D_Cute_Platform_ALL_AlexDreamer_37: 689174086
+      2D_Cute_Platform_ALL_AlexDreamer_38: -436587752
+      2D_Cute_Platform_ALL_AlexDreamer_39: 1593612272
+      2D_Cute_Platform_ALL_AlexDreamer_4: -1634264614
+      2D_Cute_Platform_ALL_AlexDreamer_40: 9738394
+      2D_Cute_Platform_ALL_AlexDreamer_41: 548583627
+      2D_Cute_Platform_ALL_AlexDreamer_42: -2127660804
+      2D_Cute_Platform_ALL_AlexDreamer_43: -692988549
+      2D_Cute_Platform_ALL_AlexDreamer_44: 798978569
+      2D_Cute_Platform_ALL_AlexDreamer_45: 561267008
+      2D_Cute_Platform_ALL_AlexDreamer_46: -1333449222
+      2D_Cute_Platform_ALL_AlexDreamer_47: -2141786793
+      2D_Cute_Platform_ALL_AlexDreamer_48: 998343389
+      2D_Cute_Platform_ALL_AlexDreamer_49: 218213849
+      2D_Cute_Platform_ALL_AlexDreamer_5: 2000169189
+      2D_Cute_Platform_ALL_AlexDreamer_50: -1234337741
+      2D_Cute_Platform_ALL_AlexDreamer_51: 2003358484
+      2D_Cute_Platform_ALL_AlexDreamer_52: 1138790582
+      2D_Cute_Platform_ALL_AlexDreamer_53: -556922464
+      2D_Cute_Platform_ALL_AlexDreamer_54: -1103812258
+      2D_Cute_Platform_ALL_AlexDreamer_55: 1035676835
+      2D_Cute_Platform_ALL_AlexDreamer_56: 708170008
+      2D_Cute_Platform_ALL_AlexDreamer_57: 210737717
+      2D_Cute_Platform_ALL_AlexDreamer_58: 79088386
+      2D_Cute_Platform_ALL_AlexDreamer_59: 1392296641
+      2D_Cute_Platform_ALL_AlexDreamer_6: -878938862
+      2D_Cute_Platform_ALL_AlexDreamer_60: -2116810767
+      2D_Cute_Platform_ALL_AlexDreamer_61: -1371848655
+      2D_Cute_Platform_ALL_AlexDreamer_62: 1578680588
+      2D_Cute_Platform_ALL_AlexDreamer_63: 471766757
+      2D_Cute_Platform_ALL_AlexDreamer_64: 1747880907
+      2D_Cute_Platform_ALL_AlexDreamer_65: -1197101025
+      2D_Cute_Platform_ALL_AlexDreamer_66: -71269340
+      2D_Cute_Platform_ALL_AlexDreamer_67: 741584752
+      2D_Cute_Platform_ALL_AlexDreamer_68: -2090223108
+      2D_Cute_Platform_ALL_AlexDreamer_69: -585940125
+      2D_Cute_Platform_ALL_AlexDreamer_7: 1069180617
+      2D_Cute_Platform_ALL_AlexDreamer_70: 426964737
+      2D_Cute_Platform_ALL_AlexDreamer_71: 589342754
+      2D_Cute_Platform_ALL_AlexDreamer_72: 1305623721
+      2D_Cute_Platform_ALL_AlexDreamer_73: -163037657
+      2D_Cute_Platform_ALL_AlexDreamer_74: -614329315
+      2D_Cute_Platform_ALL_AlexDreamer_75: -571333946
+      2D_Cute_Platform_ALL_AlexDreamer_76: 274208234
+      2D_Cute_Platform_ALL_AlexDreamer_77: 1211265714
+      2D_Cute_Platform_ALL_AlexDreamer_78: -1562651655
+      2D_Cute_Platform_ALL_AlexDreamer_79: 2027993433
+      2D_Cute_Platform_ALL_AlexDreamer_8: -1294172253
+      2D_Cute_Platform_ALL_AlexDreamer_80: 1908396923
+      2D_Cute_Platform_ALL_AlexDreamer_81: -1650114220
+      2D_Cute_Platform_ALL_AlexDreamer_82: 59460459
+      2D_Cute_Platform_ALL_AlexDreamer_83: 548569937
+      2D_Cute_Platform_ALL_AlexDreamer_84: -458947795
+      2D_Cute_Platform_ALL_AlexDreamer_85: 635723712
+      2D_Cute_Platform_ALL_AlexDreamer_86: -1843209586
+      2D_Cute_Platform_ALL_AlexDreamer_87: -691396522
+      2D_Cute_Platform_ALL_AlexDreamer_88: -429937132
+      2D_Cute_Platform_ALL_AlexDreamer_89: 1362969680
+      2D_Cute_Platform_ALL_AlexDreamer_9: -1832986125
+      2D_Cute_Platform_ALL_AlexDreamer_90: -1169076539
+      2D_Cute_Platform_ALL_AlexDreamer_91: -1932300667
+      2D_Cute_Platform_ALL_AlexDreamer_92: 2247928
+      2D_Cute_Platform_ALL_AlexDreamer_93: 1050604587
+      2D_Cute_Platform_ALL_AlexDreamer_94: -1252121482
+      2D_Cute_Platform_ALL_AlexDreamer_95: 1029537567
+      2D_Cute_Platform_ALL_AlexDreamer_96: -1981909222
+      2D_Cute_Platform_ALL_AlexDreamer_97: 1167742579
+      2D_Cute_Platform_ALL_AlexDreamer_98: -1050597585
+      2D_Cute_Platform_ALL_AlexDreamer_99: 1337942388
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
